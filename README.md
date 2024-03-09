@@ -1,4 +1,4 @@
-# Embedded-Systems-Projects-with-Microcontroller-Integration-in-C
+# Embedded Systems Projects with Microcontroller Integration in C
 
 ● Implemented diverse lab projects, demonstrating proficiency in utilizing the Atmega328pb microcontroller within the Microchip Studio IDP.
 
