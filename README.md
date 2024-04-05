@@ -1,7 +1,7 @@
 # Embedded Systems Projects with Microcontroller Integration in C
 
-● Implemented diverse lab projects, demonstrating proficiency in utilizing the Atmega328pb microcontroller within the Microchip Studio IDP.
+● Spearheaded 8 lab projects, showcasing expertise in operating the Atmega328pb microcontroller using Microchip Studio IDP.
 
-● Showcasing hands-on expertise in embedded hardware, software, and diverse tools through practical project applications.
+● Demonstrated hands-on expertise in embedded hardware, software, and diverse tools through successful project applications.
 
-● Attained advanced proficiency in the C language through practical applications in embedded systems, along with the ability to seamlessly connecting IO devices to embedded computers or microcontrollers.
+● Achieved advanced proficiency in the C language through hands-on application in embedded systems. Developed the ability to seamlessly connect I/O devices to embedded computers or microcontrollers.
